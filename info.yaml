@@ -24,7 +24,7 @@ documentation:
   author:       "Wendi Li"      # Your name
   title:        "W_Li_10/28"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "The circuit controls the seven segment display"      # Short description of what your project does
+  description:  "The circuit controls the seven segment display to diplay the authors initial and the date the circuit is designed"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
